@@ -1,0 +1,13 @@
+<svg height="158" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="158" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY @angular/core@^2.4.4</tspan>
+<tspan x="10" y="90">├── angular2-grid@2.0.2 </tspan>
+<tspan x="10" y="106">├── UNMET PEER DEPENDENCY reflect-metadata@^0.1.8</tspan>
+<tspan x="10" y="122">├── UNMET PEER DEPENDENCY rxjs@^5.0.1</tspan>
+<tspan x="10" y="138">└── UNMET PEER DEPENDENCY zone.js@^0.7.2</tspan>
+</text>
+</svg>
